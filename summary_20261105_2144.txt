@@ -1,0 +1,6 @@
+model: llama3.1:8b
+sentences: 46
+offline before: True
+valid_json: 46/46
+intent_correct: 46/46
+intent AND target ok: 44/46

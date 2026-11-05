@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-05T17:33:02",
+  "model": "C:\\Users\\Admin\\OneDrive\\Desktop\\vosk_arven\\vosk-model-small-en-us-0.15",
+  "word_errors": 29,
+  "ref_words": 223,
+  "WER_percent": 13.0,
+  "results": [
+    {
+      "expected": "Hello, how are you today?",
+      "text": "hello how are you today",
+      "word_errors": 0,
+      "ref_words": 5,
+      "record_seconds": 7.3
+    },
+    {
+      "expected": "Please check the patient's blood pressure.",
+      "text": "please check the patient's blood pressure",
+      "word_errors": 0,
+      "ref_words": 6,
+      "record_seconds": 7.58
+    },
+    {
+      "expected": "Call the nurse station immediately.",
+      "text": "coughlin or station immediately",
+      "word_errors": 3,
+      "ref_words": 5,
+      "record_seconds": 7.47
+    },
+    {
+      "expected": "The patient needs medication now.",
+      "text": "the patient needs medication now",
+      "word_errors": 0,
+      "ref_words": 5,
+      "record_seconds": 8.33
+    },
+    {
+      "expected": "Where is the nearest defibrillator?",
+      "text": "where is the nearest defibrillator",
+      "word_errors": 0,
+      "ref_words": 5,
+      "record_seconds": 8.06
+    },
+    {
+      "expected": "Call the doctor to the emergency room.",
+      "text": "could the doctor to the emergency room",
+      "word_errors": 1,
+      "ref_words": 7,
+      "record_seconds": 9.29
+    },
+    {
+      "expected": "Bring a new IV bag to bed number nine.",
+      "text": "are you new ip back to bed number nine",
+      "word_errors": 4,
+      "ref_words": 9,
+      "record_seconds": 12.45
+    },
+    {
+      "expected": "Bring a wheelchair and an oxygen mask to room fourteen.",
+      "text": "bring a wheelchair and an oxygen mask to room fourteen",
+      "word_errors": 0,
+      "ref_words": 10,
+      "record_seconds": 7.71
+    },
+    {
+      "expected": "Take me to the radiology department on the third floor.",
+      "text": "take me to the radiology department on the third floor",
+      "word_errors": 0,
+      "ref_words": 10,
+      "record_seconds": 6.81
+    },
+    {
+      "expected": "The patient in bed twelve needs fresh linens and a basin.",
+      "text": "a patient in bed twelve need fresh winans and a basin",
+      "word_errors": 3,
+      "ref_words": 11,
+      "record_seconds": 17.23
+    },
+    {
+      "expected": "Take me to the patient in room four hundred and twelve.",
+      "text": "take me to the patient around four hundred and twelve",
+      "word_errors": 2,
+      "ref_words": 11,
+      "record_seconds": 7.97
+    },
+    {
+      "expected": "Please take the patient's temperature and write it on the chart.",
+      "text": "please take a patient's temperature and write it on the chart",
+      "word_errors": 1,
+      "ref_words": 11,
+      "record_seconds": 14.91
+    },
+    {
+      "expected": "The doctor asked me to bring the blood test results to the intensive care unit.",
+      "text": "a doctor asked me to bring the blood test results to the intensive care unit",
+      "word_errors": 1,
+      "ref_words": 15,
+      "record_seconds": 19.5
+    },
+    {
+      "expected": "I need three pillows, two blankets, and one bedpan for the patient in bed twelve in ward B.",
+      "text": "i need three pillows to blankets and one bedpan for the patient in bed twelve and be",
+      "word_errors": 4,
+      "ref_words": 18,
+      "record_seconds": 17.67
+    },
+    {
+      "expected": "Tell the surgeon that the patient in room twenty is ready for the operating theatre.",
+      "text": "tell the surgeon that the patient in room twenty is ready for the operation theater",
+      "word_errors": 2,
+      "ref_words": 15,
+      "record_seconds": 13.97
+    },
+    {
+      "expected": "Please bring clean towels and a pair of gloves to the pharmacy on the second floor.",
+      "text": "please bring clean towels and a pair of gloves to the pharmacy on a second for",
+      "word_errors": 2,
+      "ref_words": 16,
+      "record_seconds": 14.23
+    },
+    {
+      "expected": "The patient in bed seven is feeling dizzy and needs a nurse right away.",
+      "text": "a patient in bed seven is feeling dizzy and needs a nurse right away",
+      "word_errors": 1,
+      "ref_words": 14,
+      "record_seconds": 19.71
+    },
+    {
+      "expected": "Take this sample to the laboratory and ask them to call me when the results are ready.",
+      "text": "take a sample into the laboratory and ask them to call me when the results are ready",
+      "word_errors": 2,
+      "ref_words": 17,
+      "record_seconds": 14.21
+    },
+    {
+      "expected": "Move the patient from the emergency room to room three hundred and five on the third floor.",
+      "text": "oh the patient from the emergency room to room three hundred and five on the third floor",
+      "word_errors": 1,
+      "ref_words": 17,
+      "record_seconds": 23.48
+    },
+    {
+      "expected": "Please remind the doctor that the patient in bed fifteen needs a new prescription before tonight.",
+      "text": "please remind the doctor that a patient in bed fifteen need a new prescription before tonight",
+      "word_errors": 2,
+      "ref_words": 16,
+      "record_seconds": 14.23
+    }
+  ]
+}
